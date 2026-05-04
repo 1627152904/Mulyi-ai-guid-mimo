@@ -35,12 +35,15 @@
 ```bash
 git clone https://github.com/1627152904/Mulyi-ai-guid-mimo.git
 cd Mulyi-ai-guid-mimo
+```
 
 ### 2. 安装依赖
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 3. 配置环境
+```bash
 MIIMO_API_KEY=your_token_here
 MIIMO_BASE_URL=https://api.mimo.xiaomi.com/v1
+```
